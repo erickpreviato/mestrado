@@ -1,0 +1,206 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.45.2.1 }
+
+\bibitem[Almeida 2006]{almeida2006}
+\abntrefinfo{Almeida}{ALMEIDA}{2006}
+{ALMEIDA, M. S.~O.
+\emph{MGUP: RUP Aplicado a Jogos Móveis}.
+Dissertação (Mestrado) --- Universidade Estadual de Maringá, 3 2006.}
+
+
+\bibitem[Araujo 2006]{araujo2006}
+\abntrefinfo{Araujo}{ARAUJO}{2006}
+{ARAUJO, A. R.~S.
+\emph{Agile Game Process: Metodologia ágil para projetos de Advergames}.
+Trabalho de Graduação --- Universidade Federal de Pernambuco, 2006.}
+
+
+\bibitem[Aveson e Fitzgerald 2006]{aveson2006}
+\abntrefinfo{Aveson e Fitzgerald}{AVESON; FITZGERALD}{2006}
+{AVESON, D.; FITZGERALD, G. Methodologies for developing information systems: A
+  historical perspective.
+In:  \underline{\ \ \ \ \ \ \ \ }. \emph{The Past and Future of Information
+  Systems: 1976--2006 and Beyond: IFIP 19th World Computer Congress, TC-8,
+  Information System Stream, August 21--23, 2006, Santiago, Chile}. Boston, MA:
+  Springer US, 2006. p. 27--38.}
+
+
+\bibitem[Barros 2007]{barros2007}
+\abntrefinfo{Barros}{BARROS}{2007}
+{BARROS, R. L.~B.
+\emph{Análise de Metodologias de Desenvolvimento de Software aplicadas ao
+  Desenvolvimento de Jogos Eletrônicos}.
+Trabalho de Graduação --- Universidade Federal de Pernambuco, 2007.}
+
+
+\bibitem[Beck 2000]{beck2000}
+\abntrefinfo{Beck}{BECK}{2000}
+{BECK, K. \emph{Extreme Programming Explained: Embrace Change}. Boston, MA,
+  USA: Addison-Wesley Longman Publishing Co., Inc., 2000.}
+
+
+\bibitem[Beck et al. 2001]{beck2001}
+\abntrefinfo{Beck et al.}{BECK et al.}{2001}
+{BECK, K. et al. \emph{Manifesto for Agile Software Development}. 2001.
+Dispon{\'\i}vel em: $<$\url{http://agilemanifesto.org/}$>$.}
+
+
+\bibitem[Costa 2012]{costa2012}
+\abntrefinfo{Costa}{COSTA}{2012}
+{COSTA, A.~D. \emph{8 opções para gerenciar finanças no PC}. 4 2012.
+Acesso em: 30 out. 2016.
+Dispon{\'\i}vel em:
+  $<$\url{http://exame.abril.com.br/blogs/aplicativos/windows/8-opcoes-para-gerenciar-financas-no-pc/}$>$.}
+
+
+\bibitem[Demachy 2003]{demachy2003}
+\abntrefinfo{Demachy}{DEMACHY}{2003}
+{DEMACHY, T. \emph{Extreme game development: Right on time, every time}. 7
+  2003.
+Acesso em: 19 out. 2016.
+Dispon{\'\i}vel em:
+  $<$\url{http://www.gamasutra.com/resource_guide/20030714/demachy_pfv.htm}$>$.}
+
+
+\bibitem[Flood 2003]{flood2003}
+\abntrefinfo{Flood}{FLOOD}{2003}
+{FLOOD, K. \emph{Game Unified Process}. 5 2003.
+Acesso em: 20 out. 2016.
+Dispon{\'\i}vel em:
+  $<$\url{http://www.gamedev.net/page/resources/_/technical/general-programming/game-unified-process-r1940}$>$.}
+
+
+\bibitem[Franco 2007]{franco2007}
+\abntrefinfo{Franco}{FRANCO}{2007}
+{FRANCO, E.~F.
+\emph{Um modelo de gerenciamento de projetos baseado nas metodologias ágeis de
+  desenvolvimento de software e nos princípios da produção enxuta}.
+Dissertação (Mestrado) --- Escola Politécnica da Universidade de São Paulo,
+  2007.}
+
+
+\bibitem[Guarizzo 2008]{guarizzo2008}
+\abntrefinfo{Guarizzo}{GUARIZZO}{2008}
+{GUARIZZO, K.
+\emph{Métricas de Software}.
+Trabalho de Graduação --- Faculdade de Jaguariúna, 2008.}
+
+
+\bibitem[Hastie e Wojewoda 2015]{hastie2015}
+\abntrefinfo{Hastie e Wojewoda}{HASTIE; WOJEWODA}{2015}
+{HASTIE, S.; WOJEWODA, S. \emph{Standish Group 2015 Chaos Report - Q\&A with
+  Jennifer Lynch}. out. 2015.
+Dispon{\'\i}vel em:
+  $<$\url{https://www.infoq.com/articles/standish-chaos-2015}$>$.}
+
+
+\bibitem[Hewlett Packard Enterprise 2016]{hp2016}
+\abntrefinfo{Hewlett Packard Enterprise}{HEWLETT PACKARD ENTERPRISE}{2016}
+{HEWLETT PACKARD ENTERPRISE. \emph{Software de Big Data}. 2016.
+Acesso em: 30 out. 2016.
+Dispon{\'\i}vel em:
+  $<$\url{http://www8.hp.com/br/pt/software-solutions/big-data-analytics-software.html}$>$.}
+
+
+\bibitem[IEEE 1990]{ieee1990}
+\abntrefinfo{IEEE}{IEEE}{1990}
+{IEEE. \emph{{IEEE} Standard Glossary of Software Engineering Terminology}.
+[S.l.], 1990. Dispon{\'\i}vel em:
+  $<$\url{http://dx.doi.org/10.1109/ieeestd.1990.101064}$>$.}
+
+
+\bibitem[Keith 2010]{keith2010}
+\abntrefinfo{Keith}{KEITH}{2010}
+{KEITH, C. \emph{Agile Game Development with Scrum}. 1st. ed. [S.l.]:
+  Addison-Wesley Professional, 2010.}
+
+
+\bibitem[Kroll e Kruchten 2003]{kroll2003}
+\abntrefinfo{Kroll e Kruchten}{KROLL; KRUCHTEN}{2003}
+{KROLL, P.; KRUCHTEN, P. \emph{The Rational Unified Process Made Easy: A
+  Practitioner's Guide to the RUP}. Boston, MA, USA: Addison-Wesley Longman
+  Publishing Co., Inc., 2003.}
+
+
+\bibitem[Novak 2012]{novak2012}
+\abntrefinfo{Novak}{NOVAK}{2012}
+{NOVAK, J. \emph{Game Development Essentials: An Introduction}. 3nd. ed.
+  [S.l.]: Delmar Learning, 2012.}
+
+
+\bibitem[Pressman 2005]{pressman2005}
+\abntrefinfo{Pressman}{PRESSMAN}{2005}
+{PRESSMAN, R.~S. \emph{Software Engineering: A Practitioner's Approach}. 6th.
+  ed. [S.l.]: McGraw-Hill Higher Education, 2005.}
+
+
+\bibitem[Rabin 2013]{rabin2}
+\abntrefinfo{Rabin}{RABIN}{2013}
+{RABIN, S. \emph{Introdução ao Desenvolvimento de Games}. 2nd. ed. [S.l.]:
+  Cengage Learning, 2013.}
+
+
+\bibitem[Ribeiro 2016]{ribeiro2016}
+\abntrefinfo{Ribeiro}{RIBEIRO}{2016}
+{RIBEIRO, C. \emph{TOP 10 softwares para engenharia}. 8 2016.
+Acesso em: 30 out. 2016.
+Dispon{\'\i}vel em:
+  $<$\url{http://blogdaengenharia.com/top-10-softwares-para-engenharia/}$>$.}
+
+
+\bibitem[Roberts e Sikes 2011]{roberts2011}
+\abntrefinfo{Roberts e Sikes}{ROBERTS; SIKES}{2011}
+{ROBERTS, R.; SIKES, J. \emph{A rising role for IT: McKinsey Global Survey
+  results}. dez. 2011.
+Dispon{\'\i}vel em:
+  $<$\url{http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/a-rising-role-for-it-mckinsey-global-survey-results}$>$.}
+
+
+\bibitem[Royce 1970]{royce1970}
+\abntrefinfo{Royce}{ROYCE}{1970}
+{ROYCE, W. {Managing the development of large software systems: Concepts and
+  techniques}.
+1970.}
+
+
+\bibitem[Schuytema 2006]{schuytema2006}
+\abntrefinfo{Schuytema}{SCHUYTEMA}{2006}
+{SCHUYTEMA, P. \emph{Game Design: A Practical Approach (Game Development
+  Series)}. 1st. ed. Rockland, MA, USA: Charles River Media, Inc., 2006.}
+
+
+\bibitem[Schwaber 1997]{schwaber1997}
+\abntrefinfo{Schwaber}{SCHWABER}{1997}
+{SCHWABER, K. Scrum development process.
+In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Business Object Design and
+  Implementation: OOPSLA '95 Workshop Proceedings 16 October 1995, Austin,
+  Texas}. London: Springer London, 1997. p. 117--134.
+ISBN 978-1-4471-0947-1.
+Dispon{\'\i}vel em:
+  $<$\url{http://dx.doi.org/10.1007/978-1-4471-0947-1_11}$>$.}
+
+
+\bibitem[Schwaber e Sutherland 2016]{schwaber2016}
+\abntrefinfo{Schwaber e Sutherland}{SCHWABER; SUTHERLAND}{2016}
+{SCHWABER, K.; SUTHERLAND, J. \emph{The {Scrum} Guide}. 7 2016.
+Acesso em: 20 out. 2016.
+Dispon{\'\i}vel em:
+  $<$\url{http://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-US.pdf}$>$.}
+
+
+\bibitem[Sommerville 2010]{sommerville2010}
+\abntrefinfo{Sommerville}{SOMMERVILLE}{2010}
+{SOMMERVILLE, I. \emph{Software Engineering}. 9th. ed. USA: Addison-Wesley
+  Publishing Company, 2010.}
+
+
+\bibitem[Teles 2014]{teles2014}
+\abntrefinfo{Teles}{TELES}{2014}
+{TELES, V.~M. \emph{Extreme Programming}. 2nd. ed. [S.l.]: Novatec, 2014.}
+
+
+\end{thebibliography}

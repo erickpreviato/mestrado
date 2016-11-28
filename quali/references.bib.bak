@@ -1,0 +1,239 @@
+@Book{beck2000,
+  title     = {Extreme Programming Explained: Embrace Change},
+  publisher = {Addison-Wesley Longman Publishing Co., Inc.},
+  year      = {2000},
+  author    = {Beck, Kent},
+  address   = {Boston, MA, USA}
+}
+
+@book{keith2010,
+ author = {Keith, Clinton},
+ title = {Agile Game Development with Scrum},
+ year = {2010},
+ edition = {1st},
+ publisher = {Addison-Wesley Professional}
+} 
+
+@Book{sommerville2010,
+  title     = {Software Engineering},
+  publisher = {Addison-Wesley Publishing Company},
+  year      = {2010},
+  author    = {Sommerville, Ian},
+  address   = {USA},
+  edition   = {9th}
+}
+
+@Book{pressman2005,
+  title     = {Software Engineering: A Practitioner's Approach},
+  publisher = {McGraw-Hill Higher Education},
+  year      = {2005},
+  author    = {Pressman, Roger S.},
+  edition   = {6th}
+}
+
+@Book{novak2012,
+  title     = {Game Development Essentials: An Introduction},
+  publisher = {Delmar Learning},
+  year      = {2012},
+  author    = {Novak, Jeannie},
+  edition   = {3nd}
+}
+
+@Book{schuytema2006,
+  title     = {Game Design: A Practical Approach (Game Development Series)},
+  publisher = {Charles River Media, Inc.},
+  year      = {2006},
+  author    = {Schuytema, Paul},
+  address   = {Rockland, MA, USA},
+  edition   = {1st}
+}
+
+@Book{rabin4,
+  title     = {Introdução ao Desenvolvimento de Games},
+  publisher = {Cengage Learning},
+  year      = {2013},
+  author    = {Steve Rabin},
+  editor    = {Steve Rabin},
+  volume    = {4},
+  edition   = {2nd}
+}
+
+@Book{rabin2,
+  title     = {Introdução ao Desenvolvimento de Games},
+  publisher = {Cengage Learning},
+  year      = {2013},
+  author    = {Steve Rabin},
+  editor    = {Steve Rabin},
+  volume    = {2},
+  edition   = {2nd}
+}
+
+@Book{kroll2003,
+  title     = {The Rational Unified Process Made Easy: A Practitioner's Guide to the RUP},
+  publisher = {Addison-Wesley Longman Publishing Co., Inc.},
+  year      = {2003},
+  author    = {Kroll, Per and Kruchten, Philippe},
+  address   = {Boston, MA, USA}
+}
+
+@book{teles2014,
+ author     = {Teles, Vinícius Manhães},
+ title      = {Extreme Programming},
+ year       = {2014},
+ edition    = {2nd},
+ publisher  = {Novatec}
+}
+
+@misc{beck2001,
+  author = {Beck, Kent and Beedle, Mike and Bennekum, Arie van and Cockburn, Alistair and Cunningham, Ward and Fowler, Martin and Grenning, James and Highsmith, Jim and Hunt, Andrew and Jeffries, Ron and Kern, Jon and Marick, Brian and Martin, Robert C. and Mellor, Steve and Schwaber, Ken and Sutherland, Jeff and Thomas, Dave},
+  year   = {2001},
+  title  = {Manifesto for Agile Software Development},
+  url    = {http://agilemanifesto.org/}
+}
+
+@misc{hastie2015,
+  author = {Hastie, Shane and Wojewoda, Stéphane},
+  month  = oct,
+  year   = {2015},
+  title  = {Standish Group 2015 Chaos Report - Q\&A with Jennifer Lynch},
+  url    = {https://www.infoq.com/articles/standish-chaos-2015}
+}
+
+@misc{roberts2011,
+  author = {Roberts, Roger and Sikes, Johnson},
+  month  = dec,
+  year   = {2011},
+  title  = {A rising role for IT: McKinsey Global Survey results},
+  url    = {http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/a-rising-role-for-it-mckinsey-global-survey-results}
+}
+
+@InBook{aveson2006,
+  author    = {Aveson, David and Fitzgerald, Guy},
+  title     = {Methodologies for Developing Information Systems: A Historical Perspective},
+  booktitle = {The Past and Future of Information Systems: 1976--2006 and Beyond: IFIP 19th World Computer Congress, TC-8, Information System Stream, August 21--23, 2006, Santiago, Chile},
+  year      = {2006},
+  editor    = {Avison, David and Elliot, Steve and Krogstie, John and Pries-Heje, Jan},
+  publisher = {Springer US},
+  pages     = {27-38},
+  address   = {Boston, MA}
+}
+
+@article{royce1970,
+  added-at = {2007-07-03T23:25:49.000+0200},
+  author = {Royce, W.},
+  biburl = {http://www.bibsonomy.org/bibtex/2951d261f3ea781ab4745267fef30a52f/tausendeins},
+  booktitle = {WESCOM},
+  interhash = {e1d86d2011758ef5f697b812873d1460},
+  intrahash = {951d261f3ea781ab4745267fef30a52f},
+  keywords = {waterfallmodel},
+  timestamp = {2007-07-03T23:25:49.000+0200},
+  title = {{Managing the development of large software systems: Concepts and techniques}},
+  year = 1970
+}
+
+@Thesis{guarizzo2008,
+  author      = {Guarizzo, Karina},
+  title       = {Métricas de Software},
+  type        = {Trabalho de Graduação},
+  school      = {Faculdade de Jaguariúna},
+  year        = {2008},
+  date        = {2008-12-11}
+}
+
+@Thesis{barros2007,
+  author      = {Barros, Raphael Lima Belém},
+  title       = {Análise de Metodologias de Desenvolvimento de Software aplicadas ao Desenvolvimento de Jogos Eletrônicos},
+  type        = {Trabalho de Graduação},
+  school      = {Universidade Federal de Pernambuco},
+  year        = {2007},
+  date        = {2007-08-22}
+}
+
+@Thesis{araujo2006,
+  author      = {Araujo, Allan Rodrigo Santos},
+  title       = {Agile Game Process: Metodologia ágil para projetos de Advergames},
+  type        = {Trabalho de Graduação},
+  school      = {Universidade Federal de Pernambuco},
+  year        = {2006},
+  date        = {2006-10-05}
+}
+
+@thesis{franco2007,
+  author       = {Franco, E. F.}, 
+  title        = {Um modelo de gerenciamento de projetos baseado nas metodologias ágeis de desenvolvimento de software e nos princípios da produção enxuta},
+	type         = {Dissertação (Mestrado)},
+  school       = {Escola Politécnica da Universidade de São Paulo},
+  year         = 2007
+}
+
+@Misc{flood2003,
+  author = {Flood, Kevin},
+  title  = {Game Unified Process},
+  year   = {2003},
+  note   = {Acesso em: 20 out. 2016},
+  month  = {5},
+  url    = {http://www.gamedev.net/page/resources/{\_}/technical/general-programming/game-unified-process-r1940}
+}
+
+@thesis{almeida2006,
+  author       = {Marcos Silvano Orita Almeida}, 
+  title        = {MGUP: RUP Aplicado a Jogos Móveis},
+	type         = {Dissertação (Mestrado)},
+  school       = {Universidade Estadual de Maringá},
+  year         = 2006,
+  month        = 3
+}
+
+@misc{schwaber2016,
+    author = {Schwaber, Ken and Sutherland, Jeff},
+		month  = 7,
+		year   = 2016,
+    title  = {The {Scrum} Guide},
+		note   = {Acesso em: 20 out. 2016},
+		url    = {http://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-US.pdf}
+}
+
+@misc{demachy2003,
+    author = {Demachy, Thomas},
+		month  = 7,
+		year   = 2003,
+    title  = {Extreme game development: Right on time, every time},
+		note   = {Acesso em: 19 out. 2016},
+		url    = {http://www.gamasutra.com/resource\_guide/20030714/demachy\_pfv.htm}
+}
+
+@techreport{ieee1990,
+    journal = {IEEE Std 610.12-1990},
+    publisher = {IEEE},
+		author = {IEEE},
+		organization = {IEEE},
+    title = {{IEEE} Standard Glossary of Software Engineering Terminology},
+    url = {http://dx.doi.org/10.1109/ieeestd.1990.101064},
+    year = {1990}
+}
+
+@misc{ribeiro2016,
+  author       = {Ribeiro, Clara}, 
+  title        = {TOP 10 softwares para engenharia},
+  month        = 8,
+  year         = 2016,
+  note         = {Acesso em: 30 out. 2016},
+	url          = {http://blogdaengenharia.com/top-10-softwares-para-engenharia/}
+}
+
+@misc{costa2012,
+  author       = {Costa, Adeline Daniele}, 
+  title        = {8 opções para gerenciar finanças no PC},
+  month        = 4,
+  year         = 2012,
+  note         = {Acesso em: 30 out. 2016},
+	url          = {http://exame.abril.com.br/blogs/aplicativos/windows/8-opcoes-para-gerenciar-financas-no-pc/}
+}
+
+@misc{hp2016,
+  organization = {Hewlett Packard Enterprise}, 
+  title        = {Software de Big Data},
+  year         = 2016,
+  note         = {Acesso em: 30 out. 2016},
+	url          = {http://www8.hp.com/br/pt/software-solutions/big-data-analytics-software.html}
+}
